@@ -1,0 +1,8 @@
+[linux1]
+n01606928-linux1.canadacentral.cloudapp.azure.com
+n01606928-linux2.canadacentral.cloudapp.azure.com
+n01606928-linux3.canadacentral.cloudapp.azure.com
+
+[linux1:vars]
+ansible_user=shreyabhoir
+ansible_connection=ssh
